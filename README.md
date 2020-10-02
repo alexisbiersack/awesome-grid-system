@@ -1,2 +1,2 @@
 # awesome-grid-system
-simple and nice!
+simple and nice! Easy to use
